@@ -20,7 +20,7 @@
 }
 
 .grid-container1 div {
-  background-color: rgba(29, 1, 166, 0.8);  
+  background-color: rgba(29, 1, 166);  
 }
 
 .item1 {
@@ -70,4 +70,6 @@
 
 .but {
   display: flex;
+  
 }
+

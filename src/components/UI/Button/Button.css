@@ -2,7 +2,7 @@ a {
     color: rgb(255, 255, 255);
     text-decoration: none;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 500;
     margin-right: 1rem;  
 }
 
@@ -20,5 +20,10 @@ a.btn-dark {
 
 a.btn-light {
     background: rgb(97, 82, 254);
+}
+a.btn:hover {
+    background-color: rgb(255, 183, 0);
+    color: black;
+    font-weight: 500;
 }
 
