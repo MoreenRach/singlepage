@@ -13,6 +13,7 @@
     position: relative;
     padding-bottom: 2rem;
 }
+
 .header h1 span{
     display: block;
 }
@@ -38,6 +39,10 @@ h1 span:nth-child(2) {
 
 .header-right img{
     width: 90%;
+}
+
+.text-header {
+    font-size: 1.4rem;
 }
 
 @media screen and (max-width: 768px) {

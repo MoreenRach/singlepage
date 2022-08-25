@@ -10,6 +10,7 @@
     color: white;
     background-color: rgb(236, 98, 149);
     padding: 10px;
+    border-radius: 10px;
   }
   
   .grid-container5 div {

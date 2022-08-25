@@ -7,7 +7,7 @@ import refCar from "../../assets/car.jpg"
 const Features = () => {
     return (
         <div class="grid-container1">
-            <div class="item1">Oktober</div>
+            <div class="item1">October</div>
             <div class="item2">25.10.2022</div>
             <div class="item3">20:15</div>
             <div class="item4">

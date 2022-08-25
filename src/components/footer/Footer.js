@@ -6,8 +6,7 @@ const Footer = () => {
   return (
     <footer id="footer">
       <div className='container footer'>
-
-        <div className='footer-box'>
+        <div className='footer-left'>
           <h4>Useful Links</h4>
           <div className='footer-links'>
             <a href='https://www.hs-furtwangen.de/' target="_blank">HFU</a>
@@ -16,7 +15,7 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className='footer-box'>
+        <div className='footer-right'>
           <p className='logo-text2'>
             <GiButterflyFlower color="#fff"/>
             Ref<span>Sustainability</span>

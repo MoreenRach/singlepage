@@ -11,7 +11,7 @@ const Header = () => {
             <span>REFERAT SUSTAINABILITY</span>
             <span>MOVIE PROGRAM</span>
           </h1>
-          <p className='u-text-small u-text-light'>Students of the University Furtwangen organize once in a month a movie event in the Guckloch 
+          <p className='text-header u-text-light'>Students of the University Furtwangen organize once in a month a movie event in the Guckloch 
               cinema in Furtwangen. Movies with topics to sustainability will be shown.</p>
         </div>
         <div className='header-right'>
