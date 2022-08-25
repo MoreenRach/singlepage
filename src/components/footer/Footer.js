@@ -17,8 +17,8 @@ const Footer = () => {
         </div>
 
         <div className='footer-box'>
-          <p className='logo-text'>
-            <GiButterflyFlower color="#fff" size={34} />
+          <p className='logo-text2'>
+            <GiButterflyFlower color="#fff"/>
             Ref<span>Sustainability</span>
           </p>
           <p className='u-text-small'>

@@ -6,11 +6,9 @@ const Navbar = () => {
    return (
     <nav className="container navbar">
       <div className="logo">
-        <p className='logo-foto'>
-          <GiButterflyFlower color="#fff" size={34}/>
-        </p>
         <p className='logo-text'>
-          Referat <span>Sustainability</span>
+        <GiButterflyFlower color="#fff"/>
+        Ref<span>Sustainability</span>
         </p>
       </div>
       <menu>
