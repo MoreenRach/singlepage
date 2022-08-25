@@ -1,0 +1,19 @@
+button {
+    color: rgb(255, 255, 255);
+    
+    padding: 10px 24px;
+    border: none;
+    border-radius: 12px;
+}
+
+.button1 {
+    background-color: rgb(31, 122, 31);
+}
+
+.button2 {
+    background-color: rgb(38, 163, 38);
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
