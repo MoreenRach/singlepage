@@ -1,0 +1,17 @@
+.grid-container4 {
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    grid-template-areas:
+      'month month day time'
+      'picture picture text text';
+    gap: 10px;
+    color: white;
+    background-color: rgb(144, 0, 240);
+    padding: 10px;
+  }
+  
+  .grid-container4 div {
+    background-color: rgba(72, 2, 116, 0.8);  
+  }
