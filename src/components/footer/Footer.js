@@ -10,9 +10,9 @@ const Footer = () => {
         <div className='footer-box'>
           <h4>Useful Links</h4>
           <div className='footer-links'>
-            <a href='#'>HFU</a>
-            <a href='#'>Referate</a>
-            <a href='#'>Gucklochkino</a>
+            <a href='https://www.hs-furtwangen.de/' target="_blank">HFU</a>
+            <a href='https://reftreff.hs-furtwangen.de/fu/' target="_blank">Referate</a>
+            <a href='https://www.guckloch-furtwangen.de/' target="_blank">Gucklochkino</a>
           </div>
         </div>
 
