@@ -10,7 +10,7 @@ a.btn {
     border: none;
     border-radius: 12px;
     padding: 10px 24px;
-    font-weight:300;
+    font-weight:500;
     cursor: pointer;
 }
 
@@ -19,7 +19,8 @@ a.btn-dark {
 }
 
 a.btn-light {
-    background: rgb(97, 82, 254);
+    background: rgb(183, 188, 189);
+    color:rgb(3, 15, 110)
 }
 a.btn:hover {
     background-color: rgb(255, 183, 0);

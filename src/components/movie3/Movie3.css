@@ -8,11 +8,11 @@
       'picture picture text text';
     gap: 10px;
     color: white;
-    background-color: rgb(240, 136, 0);
+    background-color: #7d20a5;
     padding: 10px;
     border-radius: 10px;
   }
   
   .grid-container3 div {
-    background-color: rgba(146, 103, 1);  
+    background-color: #7d20a5;  
   }

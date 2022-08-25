@@ -7,12 +7,12 @@
       'month month day time'
       'picture picture text text';
     gap: 10px;
-    color: white;
-    background-color: rgb(144, 0, 240);
+    color: rgb(75, 3, 88);
+    background-color: rgb(236, 98, 149);
     padding: 10px;
     border-radius: 10px;
   }
   
   .grid-container4 div {
-    background-color: rgba(72, 2, 116);  
+    background-color: rgba(236, 98, 149);  
   }
