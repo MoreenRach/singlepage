@@ -2,12 +2,12 @@ import React from 'react'
 import "./Movie4.css"
 import Button from '../UI/Button/Button'
 import "../UI/Button/Button.css"
-import refTiny from "../../assets/tinyhouse.jpg"
+import refTiny from "../../assets/tinyhouse.webp"
 
 const Movie4 = () => {
   return (
     <div class="grid-container4">
-      <div class="item1">Januar</div>
+      <div class="item1">January</div>
       <div class="item2">24.01.2023</div>
       <div class="item3">20:15</div>
       <div class="item4">

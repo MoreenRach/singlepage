@@ -2,12 +2,12 @@ import React from 'react'
 import "./Movie3.css"
 import Button from '../UI/Button/Button'
 import "../UI/Button/Button.css"
-import refTom from "../../assets/Tom.jpg"
+import refTom from "../../assets/Tom.webp"
 
 const Movie3 = () => {
   return (
     <div class="grid-container3">
-      <div class="item1">Dezember</div>
+      <div class="item1">December</div>
       <div class="item2">20.12.2022</div>
       <div class="item3">20:15</div>
       <div class="item4">

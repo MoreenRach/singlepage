@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Header.css"
-import refHeader from "../../assets/zukunft.jpg"
+import refHeader from "../../assets/zukunft.webp"
 
 const Header = () => {
   return (

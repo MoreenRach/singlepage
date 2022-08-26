@@ -2,7 +2,7 @@ import React from 'react'
 import "./Movie1.css"
 import Button from '../UI/Button/Button'
 import "../UI/Button/Button.css"
-import refCar from "../../assets/car.jpg"
+import refCar from "../../assets/car.webp"
 
 const Features = () => {
     return (
